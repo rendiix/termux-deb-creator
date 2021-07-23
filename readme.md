@@ -2,29 +2,18 @@
 
 ## Pack aplikasimu ke dalam debian package untuk mempermudah instalasi
 
-<details>
-<summary>How to install</summary>
-<br />
+#### How to install
 ```console
 $ curl -s https://raw.githubusercontent.com/rendiix/termux-deb-creator/main/install.sh | bash
 ```
-</details>
-
-<details>
-<summary>How to use</summary>
-<br />
+#### How to use
 ```console
 $ cdeb --help
 ```
-</details>
-
-<details>
-<summary>How to remove</summary>
-<br />
+#### How to remove
 ```console
 $ apt remove cdeb
 ```
-</details>
 
 📫  My contact
 
